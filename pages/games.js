@@ -13,7 +13,7 @@ export default function games() {
      <li> borderlands 2 </li>    
      <li> borderlands 2 </li>       
      <li> borderlands 2 </li>       
-     <li> borderlands 2 </li>       
+     <li> mortal kombat </li>       
          
          
     </ul>
