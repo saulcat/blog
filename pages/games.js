@@ -9,6 +9,14 @@ export default function games() {
  <Container  sx={{background:'grey', height:'100vh'}}>
 
     LIST of games
+    <ul> 
+     <li> borderlands 2 </li>    
+     <li> borderlands 2 </li>       
+     <li> borderlands 2 </li>       
+     <li> borderlands 2 </li>       
+         
+         
+    </ul>
  </Container>
 </>
 
